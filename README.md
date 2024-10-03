@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MimikaEuphorika
 I am basically the community manager for terraria in spanish
-I am re-learning code, I am brand new to github and im getting the hang of C# barely
+I am brand new to github and im getting the hang of C# barely
 <3
 
 <!---
